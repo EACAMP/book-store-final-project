@@ -1,13 +1,12 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBkhrpkbBxNsGFvNYi8FZK39sOE8WxQEmo",
-    authDomain: "library-bookstore.firebaseapp.com",
-    databaseURL: "https://library-bookstore-default-rtdb.firebaseio.com",
-    projectId: "library-bookstore",
-    storageBucket: "library-bookstore.appspot.com",
-    messagingSenderId: "971596087187",
-    appId: "1:971596087187:web:f4355a30e9077873357266"
+  apiKey: "AIzaSyBEFmlM2bpDLAPervHYF6hV3g1b6vSsGCw",
+  authDomain: "book-store-eacamp.firebaseapp.com",
+  databaseURL: "https://book-store-eacamp-default-rtdb.firebaseio.com",
+  projectId: "book-store-eacamp",
+  storageBucket: "book-store-eacamp.appspot.com",
+  messagingSenderId: "329171931830",
+  appId: "1:329171931830:web:1a06a12d8204b7c5010c17",
 };
-
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
